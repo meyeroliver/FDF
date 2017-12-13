@@ -16,3 +16,7 @@ How to run FDF.
 4) After the code has compiled enter in "./fdf test_maps/XXX" the XXX is variable name
    for any file that is in the test_maps folder.
 5) That should be it. Thank you.
+
+
+Disclaimer.
+The libft is not my own code.
