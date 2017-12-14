@@ -15,8 +15,8 @@ How to run FDF.
 3) Now to compile the code, enter in "make / make re" into your terminal.
 4) After the code has compiled enter in "./fdf test_maps/XXX" the XXX is variable name
    for any file that is in the test_maps folder.
-5) That should be it. Thank you.
+5) Press "esc" to exit the program.
 
-
-Disclaimer.
-The libft is not my own code.
+Disclaimer
+The libft is not mine.
+I have only tested this on apple devices.
